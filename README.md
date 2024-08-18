@@ -24,14 +24,8 @@ pip install -r requirements.txt
 ```
 
 ### 4. Download the Pre-trained Emotion Detection Model
-### 5. Run the Script
-
-4. Download the Pre-trained Emotion Detection Model
-
 Download a pre-trained emotion detection model (e.g., from this repository or train your own) and place it in the models/ directory. Ensure it is named emotion_detection_model.h5.
-
-5. Run the Script
-
+### 5. Run the Script
 To start the face and emotion detection using your webcam, run:
 ```
 python scripts/detect.py
