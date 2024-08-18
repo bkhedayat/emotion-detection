@@ -5,6 +5,9 @@ This project uses OpenCV and TensorFlow (or PyTorch) to perform real-time face a
 ## Setup
 
 ### 1. Clone the Repository
+``` 
+git clone https://github.com/bkhedayat/emotion-detection.git 
+```
 ### 2. Set Up a Virtual Environment
 It’s recommended to use a virtual environment to manage dependencies:
 python -m venv venv
