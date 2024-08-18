@@ -20,7 +20,7 @@ source venv/bin/activate  # On macOS/Linux
 Install the required Python packages listed in requirements.txt:
 
 ```bash
-//pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 4. Download the Pre-trained Emotion Detection Model
@@ -33,5 +33,6 @@ Download a pre-trained emotion detection model (e.g., from this repository or tr
 5. Run the Script
 
 To start the face and emotion detection using your webcam, run:
-
+```
 python scripts/detect.py
+```
