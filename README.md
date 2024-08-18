@@ -5,22 +5,19 @@ This project uses OpenCV and TensorFlow (or PyTorch) to perform real-time face a
 ## Setup
 
 ### 1. Clone the Repository
-
-```bash
-#git clone https://github.com/yourusername/face_emotion_detection.git
-#cd face_emotion_detection
-
-## 2. Set Up a Virtual Environment
-
+### 2. Set Up a Virtual Environment
 It’s recommended to use a virtual environment to manage dependencies:
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
-
-3. Install Dependencies
-
+### 3. Install Dependencies
 Install the required Python packages listed in requirements.txt:
 
+```bash
 pip install -r requirements.txt
+
+
+### 4. Download the Pre-trained Emotion Detection Model
+### 5. Run the Script
 
 4. Download the Pre-trained Emotion Detection Model
 
